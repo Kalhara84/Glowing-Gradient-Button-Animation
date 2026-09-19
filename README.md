@@ -39,7 +39,7 @@ git/
 
 1. Download or clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/GlowingButton.git
+   git clone https://github.com/Kalhara84/Glowing-Gradient-Button-Animation.git
    ```
 
 2. Open the `GlowingButton.html` file in any web browser (Chrome, Edge, Firefox, etc.).
